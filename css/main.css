@@ -1,0 +1,22 @@
+/* MAIN CSS */
+
+.minion{
+	background-image: url('../assets/images/batman_minion.jpg');
+	background-repeat: no-repeat;
+	width: 1000px;
+	height: 1000px;
+	position: relative;
+}
+
+.minion_eye{
+	background-image: url('../assets/images/minion_eye.jpg');
+	background-repeat: no-repeat;
+	width: 130px;
+	height: 130px;
+	position: absolute;
+	margin-left: 330px;
+	margin-top: 300px;
+
+	/* Animation goes here */
+
+}
